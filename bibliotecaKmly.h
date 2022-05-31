@@ -201,3 +201,6 @@ if((aux[9] == aux2[9])&&(aux[10] == aux2[10]))
 else if ((aux[9] != aux2[9])&&(aux[10] != aux2[10]))
     cout << "\n CPF INVï¿½LIDO!";
 }
+
+//GERANDO 06 NUMEROS ALEATÓRIOS DE 1 A 60 PARA PROGRAMA MEGA SENA
+
